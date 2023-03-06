@@ -33,5 +33,5 @@ package;
 **/
 #if !doc_gen
 @:build(flixel.system.FlxAssets.buildFileReferences("assets", true))
-@end
+#end
 class AssetPaths {}
